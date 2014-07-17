@@ -18,7 +18,7 @@ If you take a clone of this project to run locally on your dev machine, you'll n
 - Windows & IIS 7.0+
 - .NET 4.5+
 - ASP.NET MVC 5
-- 
+
 
 ### How To
 
